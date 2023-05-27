@@ -16,7 +16,7 @@ from ytmusicapi.navigation import (
     TITLE_TEXT,
     nav,
 )
-from ytmusicapi.ytmusic import YTMusic
+from ytmusicapi import YTMusic
 
 from mopidy_ytmusic import logger
 

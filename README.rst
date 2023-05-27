@@ -1,5 +1,5 @@
 ****************************
-Mopidy-YTMusic
+Mopidy-YTMusic (Update for ytmusicapi 1.0.2 & pytube 15.0.0)
 ****************************
 
 Upstream:

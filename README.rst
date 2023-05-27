@@ -23,6 +23,11 @@ Installation
 Install by running::
 
     sudo python3 -m pip install Mopidy-YTMusic
+    
+or install locally::
+
+    git clone https://github.com/amirvincent64/mopidy-ytmusic.git && cd mopidy-ytmusic
+    sudo python3 -m pip install .
 
 See https://mopidy.com/ext/ytmusic/ for alternative installation methods.
 
